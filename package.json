@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-amazon-ses-bulk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Sarp ISIK <wdsarpisik@gmail.com>",
   "homepage": "https://github.com/sarpisik/strapi-provider-email-amazon-ses-bulk#readme",
