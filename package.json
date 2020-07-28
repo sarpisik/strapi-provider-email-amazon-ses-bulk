@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/sarpisik/strapi-provider-email-amazon-ses-bulk/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "2.721.0"
   }
 }
